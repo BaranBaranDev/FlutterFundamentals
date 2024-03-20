@@ -1,4 +1,4 @@
-# flutterogreniyorum
+# FlutterFundamentals
 
 A new Flutter project.
 
